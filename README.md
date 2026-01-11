@@ -37,7 +37,7 @@ Atlas/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/KerbalMissile/atlas.git
+git clone https://github.com/KerbalMissile/Atlas-Home-Assistant.git
 cd atlas/backend
 ```
 
@@ -83,4 +83,5 @@ This project uses the Creative Commons Attribution-NonCommercial-NoDerivatives 4
 
 
 Made by KerbalMissile. Reach out on GitHub if you want.
+
 
