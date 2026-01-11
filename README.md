@@ -1,3 +1,7 @@
+<img width="715" height="231" alt="AtlasLogo1" src="https://github.com/user-attachments/assets/7aeed88b-cb7e-436e-9e7e-2a66bae9988a" />
+
+---
+
 # Atlas - Open Source Home Assistant Web App
 
 Atlas is a home assistant project that runs on your PC and Raspberry Pi. It is built with Python (FastAPI) for the backend and a web app frontend. The goal is to make a private and customizable assistant that you control.
@@ -76,5 +80,6 @@ You can help! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before sending issu
 This project uses the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
 
 ## Contact
+
 
 Made by KerbalMissile. Reach out on GitHub if you want.
