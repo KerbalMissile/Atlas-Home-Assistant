@@ -13,7 +13,7 @@ Atlas is a home assistant project that runs on your PC and Raspberry Pi. It is b
 - Web app frontend with modern JavaScript
 - Real-time communication with WebSockets
 - Modular design to add device support
-- Works well on Raspberry Pi
+- Meant to be used on a Raspberry Pi
 
 ## Project Structure
 
@@ -83,3 +83,4 @@ This project uses the Creative Commons Attribution-NonCommercial-NoDerivatives 4
 
 
 Made by KerbalMissile. Reach out on GitHub if you want.
+
